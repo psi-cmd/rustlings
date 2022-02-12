@@ -13,6 +13,7 @@ fn main() {
     }
 }
 
-fn is_a_color_word(attempt: &str) -> bool {
-    attempt == "green" || attempt == "blue" || attempt == "red"
+fn is_a_color_word(attempt: String) -> bool {
+    
 }
+
